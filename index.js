@@ -75,7 +75,7 @@ function createLoop(key) {
     triangle(gl)
 
     var tmp = inputs[key]
-    inputs[key] = outputs[key] qx6bjTiBws
+    inputs[key] = outputs[key]
     outputs[key] = tmp
   }
 }
