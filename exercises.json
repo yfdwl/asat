@@ -26,7 +26,7 @@
   "» GPGPU: GAME OF LIFE": "gpgpu-1",
   "» GPGPU: HEAT EQUATION": "gpgpu-2",
   "» GPGPU: WAVE EQUATION": "gpgpu-3",
-  "» PRIMITIVES: POINT SPRITES": "prims-1", nIY8sq77De
+  "» PRIMITIVES: POINT SPRITES": "prims-1",
   "» PRIMITIVES: TRIANGLES": "prims-2",
   "» PLAYGROUND: FLOCKING": "playground-flocking",
   "» PLAYGROUND: GPGPU": "playground-gpgpu"
