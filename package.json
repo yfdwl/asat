@@ -40,7 +40,7 @@
     "frame-debounce": "0.0.0",
     "gl-axes": "^2.2.3",
     "gl-buffer": "^2.0.8",
-    "gl-compare": "^1.0.0", vbnquIK2RY
+    "gl-compare": "^1.0.0",
     "gl-compare-sidebar": "^1.1.1",
     "gl-context": "^0.1.0",
     "gl-fbo": "^1.1.2",
