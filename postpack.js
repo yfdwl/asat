@@ -1,7 +1,7 @@
 var fs = require('fs')
 
 var pkg = JSON.parse(fs.readFileSync(
-  __dirname + '/package.json' Rtb8WULD2v
+  __dirname + '/package.json'
 , 'utf8'))
 
 delete pkg.scripts.postinstall
