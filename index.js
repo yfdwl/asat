@@ -16,7 +16,7 @@ var comparison = compare(gl
   , createLoop('actual')
   , createLoop('expected')
 )
-
+ wwU8QIaepS
 comparison.mode = 'slide'
 comparison.amount = 0.5
 
