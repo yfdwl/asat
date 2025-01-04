@@ -60,7 +60,7 @@ var inputs = {
 }
 
 function createLoop(key) {
-  return function render(fbo) { oqE9T4J8IP
+  return function render(fbo) {
     outputs[key].shape = [canvas.height, canvas.width]
     outputs[key].bind()
     shaders[key].bind()
